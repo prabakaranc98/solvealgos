@@ -1,2 +1,2 @@
 # solvealgos
-fall 2025, algorithms - design and analysis - learnings, readings, experiments and projects
+- fall 2025, algorithms - design and analysis - learnings, readings, experiments and projects
